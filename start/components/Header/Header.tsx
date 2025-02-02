@@ -18,7 +18,7 @@ const Header = () => {
       <BackgroundAppBar position="static" sx={{ display: 'flex', justifyContent: 'center', alignItems: 'center' }}>
         <Toolbar variant="dense">
           <Typography variant="h1" component="div" sx={{ flexGrow: 1, color: 'white', fontFamily: 'Henny Penny' }}>
-            Funko Showcase
+            Ed's Funko Showcase
           </Typography>
         </Toolbar>
       </BackgroundAppBar>
